@@ -5,27 +5,27 @@ if (day == "1")
 {
 Console.Write("Monday");
 }
- if (day == "2")
+else if (day == "2")
  {
     Console.Write("Tuesday");
  }
- if (day == "3")
+else if (day == "3")
  {
     Console.Write("Wednesday");
  }
- if (day == "4")
+else if (day == "4")
  {
     Console.Write("Thursday");
  }
- if (day == "5")
+else if (day == "5")
  {
     Console.Write("Friday");
  }
- if (day == "6")
+else if (day == "6")
  {
    Console.Write("Saturday"); 
  }
- if (day == "7")
+else if (day == "7")
  {
     Console.Write("Sunday");
  }
